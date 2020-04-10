@@ -1,0 +1,1 @@
+/*color is changing with time, a CSS, HTML and JS practice */

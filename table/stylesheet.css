@@ -1,0 +1,27 @@
+th{
+  font-size: 19px
+}
+
+table {
+  width: 58%;
+  margin: 20px auto 00px auto;
+  border-collapse: collapse;
+}
+
+table, th, td, caption {
+  border: 2px solid #999;
+  text-align: center;
+  padding: 10px;
+}
+
+caption {
+  font-family: arial;
+  font-size: 23px;
+  font-weight: bold;
+  background: #AAFF80;
+}
+
+.forrasok {
+  width: 100%;
+  margin: 20px auto 20px auto;
+}
